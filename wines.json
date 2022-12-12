@@ -5,9 +5,9 @@
             "colour":"tinto",
             "ads":"suave",
             "price":"bajo",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/home.png", "name":"homeimg", "type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/home.mp4", "name":"home", "type":"video"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/scan.mp4", "name":"scan", "type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.png", "name":"homeimg", "type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.mp4", "name":"home", "type":"video"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/scan.mp4", "name":"scan", "type":"video"}]
         },
         {
             "code":"16453366530",
@@ -15,8 +15,8 @@
             "colour":"tinto",
             "ads":"suave",
             "price":"bajo",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1", "type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1", "type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1", "type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1", "type":"video"}]
         },
         {
             "code":"23636536350",
@@ -24,8 +24,8 @@
             "colour":"rosado",
             "ads":"suave",
             "price":"alto",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"33635647868",
@@ -33,8 +33,8 @@
             "colour":"blanco",
             "ads":"atrevido",
             "price":"bajo",	   
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"47986798760",
@@ -42,8 +42,8 @@
             "colour":"blanco",
             "ads":"seco",
             "price":"medio",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"45674737575",
@@ -51,8 +51,8 @@
             "colour":"tinto",
             "ads":"suave",
             "price":"bajo",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"12324346786",
@@ -60,8 +60,8 @@
             "colour":"tinto",
             "ads":"meloso",
             "price":"elevado",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"76507854567",
@@ -69,8 +69,8 @@
             "colour":"blanco",
             "ads":"seco",
             "price":"elevado",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"568564865568",
@@ -78,8 +78,8 @@
             "colour":"espumoso",
             "ads":"atrevido",
             "price":"alto",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"658468458889",
@@ -87,8 +87,8 @@
             "colour":"tinto",
             "ads":"seco",
             "price":"bajo",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"568585565610",
@@ -96,8 +96,8 @@
             "colour":"rosado",
             "ads":"meloso",
             "price":"alto",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"156856856881",
@@ -105,8 +105,8 @@
             "colour":"blanco",
             "ads":"atrevido",
             "price":"alto",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"156856856882",
@@ -114,8 +114,8 @@
             "colour":"tinto",
             "ads":"meloso",
             "price":"alto",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"foto1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"1689690870003",
@@ -123,8 +123,8 @@
             "colour":"espumoso",
             "ads":"suave",
             "price":"bajo",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"foto1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"8780780434614",
@@ -132,8 +132,8 @@
             "colour":"tinto",
             "ads":"atrevido",
             "price":"alto",
-	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"foto1","type":"img"},
-	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         }
     ]
 }
