@@ -42,7 +42,7 @@
             "colour":"blanco",
             "ads":"seco",
             "price":"medio",
-	  "media":[{"url":"http://home.inusualcom.com:8877/wineselector/16453366530.png", "name":"img1","type":"img"},
+	  "media":[{"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://github.com/InusualLabs/wineselectormedia/raw/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
