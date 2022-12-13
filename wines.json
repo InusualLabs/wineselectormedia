@@ -9,126 +9,98 @@
         {
             "code":"16453366530",
             "name":"vino1",
-            "colour":"tinto",
-            "ads":"suave",
-            "price":"bajo",
+            "tags":["tinto","suave","bajo"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1", "type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1", "type":"video"}]
         },
         {
             "code":"23636536350",
             "name":"vino2",
-            "colour":"rosado",
-            "ads":"suave",
-            "price":"alto",
+	"tags":["rosadp","suave","alto"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"33635647868",
             "name":"vino3",
-            "colour":"blanco",
-            "ads":"atrevido",
-            "price":"bajo",	   
+            "tags":["blanco","atrevido","bajo"],	   
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"47986798760",
             "name":"vino4",
-            "colour":"blanco",
-            "ads":"seco",
-            "price":"medio",
+            "tags":["blanco","seco","medio"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"45674737575",
             "name":"vino5",
-            "colour":"tinto",
-            "ads":"suave",
-            "price":"bajo",
+            "tags":["tinto","suave","bajo"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"12324346786",
             "name":"vino6",
-            "colour":"tinto",
-            "ads":"meloso",
-            "price":"elevado",
+		"tags":["tinto","meloso","elevado"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"76507854567",
             "name":"vino7",
-            "colour":"blanco",
-            "ads":"seco",
-            "price":"elevado",
+            "tags":["blanco","seco","elevado"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"568564865568",
             "name":"vino8",
-            "colour":"espumoso",
-            "ads":"atrevido",
-            "price":"alto",
+            "tags":["espumoso","atrevido","alto"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"658468458889",
             "name":"vino9",
-            "colour":"tinto",
-            "ads":"seco",
-            "price":"bajo",
+            "tags":["tinto","seco","bajo"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"568585565610",
             "name":"vino10",
-            "colour":"rosado",
-            "ads":"meloso",
-            "price":"alto",
-	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+           "tags":["rosado","meloso","alto"],
+	"media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"156856856881",
             "name":"vino11",
-            "colour":"blanco",
-            "ads":"atrevido",
-            "price":"alto",
-	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
+            "tags":["blanco","atrevido","alto"],
+	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/TORRE-DE-TIERRA-BLANCO.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"156856856882",
             "name":"vino12",
-            "colour":"tinto",
-            "ads":"meloso",
-            "price":"alto",
+        	 "tags":["tinto","meloso","alto"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"1689690870003",
             "name":"vino13",
-            "colour":"espumoso",
-            "ads":"suave",
-            "price":"bajo",
+           "tags":["espumoso","suave","bajo"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
             "code":"8780780434614",
             "name":"vino14",
-            "colour":"tinto",
-            "ads":"atrevido",
-            "price":"alto",
+           "tags":["tinto","atrevido","alto"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         }
