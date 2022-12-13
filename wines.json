@@ -1,7 +1,7 @@
 {
 "wines":[{
             "code":"00000000000",
-	"tags":{["tinto","blanco","rosado"]},
+	"tags":[["tinto","blanco","rosado"]],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.png", "name":"homeimg", "type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.mp4", "name":"home", "type":"video"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/scan.mp4", "name":"scan", "type":"video"}]
