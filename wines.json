@@ -9,9 +9,6 @@
         {
             "code":"16453366530",
             "name":"vino1",
-	    "colour":"tinto",
-		"ads":"suave",
-		"precio":"bajo",
             "tags":["tinto","suave","bajo"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1", "type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1", "type":"video"}]
@@ -40,9 +37,6 @@
         {
             "code":"45674737575",
             "name":"vino5",
-		"colour":"tinto",
-		"ads":"suave",
-		"precio":"bajo",
             "tags":["tinto","suave","bajo"],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
