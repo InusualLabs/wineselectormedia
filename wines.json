@@ -8,8 +8,11 @@
         },
         {
             "code":"16453366530",
-            "name":"vino1",
+            "name":"Tinto M Cúbica",
             "tags":["tinto","suave","bajo"],
+		"price":"225.00$",
+		"year":"2020",
+		"desc":"Elaborado en un Viñedo de Altura, a 2000 msnm. Vino único por su frescura, que lo hace elegante, impetuoso, vibrante y que te invita a tomar otra copa. Ensamble cúbico de Malbec, cuya acidez en tierras altas de días soleados y noches frescas es excepcional; Merlot con matices de frutas rojas y perfume floral; Marselan innovador cruce de Cabernet Sauvignon y Grenache, intensa en polifenoles.",
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"img1", "type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1", "type":"video"}]
         },
