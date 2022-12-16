@@ -12,6 +12,7 @@
 	"tags":["blanco","suave","bajo"],
 		"price":"285.00$",
 		"year":"2022",
+		"grape":"semillon",
 		"desc":"Monovarietal 100% Semillón, almacenada en cámara fría posterior a la cosecha y fermentada a baja temperatura. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/TORRE-DE-TIERRA-BLANCO.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -22,6 +23,7 @@
             "tags":["rosado","atrevido","bajo"],
 		"price":"285.00$",
 		"year":"2021",
+		"grape":"cabernet franc predominante",
 		"desc":"Vino elaborado con un método de sangrado de nuestra uva Cabernet Franc: durante la fermentación, se extrae un poco del vino, por lo que éste vino rosado resulta de intensa corpulencia, además de contar con una concentración aromática agradable.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/TORRE-DE-TIERRA-ROSADO-1.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -32,6 +34,7 @@
             "tags":["tinto","seco","meloso","medio"],
 		"price":"385.00$",
 		"year":"2021",
+		"grape":"tempranillo y cabernet suavignon",
 		"desc":"Durante la elaboración, se realizó una maceración carbónica de parte del Tempranillo para obtener frescura y explosión de aromas. Lo que hace de éste ensamble de tintas un vino agradable y dentro de nuestra línea un vino ligero para iniciar el viaje de la degustación.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/TORRE-DE-TIERRA-TINTO.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -42,36 +45,40 @@
             "tags":["tinto","suave","medio"],
 		"price":"375.00$",
 		"year":"2021",
+		"grape":"semillon y suavignon blanc",
 		"desc":"Ensamble de Semillon y Sauvignon blanc. La uva se almacena en cámara fría posterior a la cosecha y se fermenta a baja temperatura para concentra e intensificar aromas y sabores. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/Cuna-de-Tierra-Blanco-1.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
-	  {
-            "code":"16453366530",
-            "name":"Tinto M Cúbica",
-            "tags":["tinto","suave","bajo"],
-		"price":"225.00$",
-		"year":"2020",
-		"desc":"Elaborado en un Viñedo de Altura, a 2000 msnm. Vino único por su frescura, que lo hace elegante, impetuoso, vibrante y que te invita a tomar otra copa. Ensamble cúbico de Malbec, cuya acidez en tierras altas de días soleados y noches frescas es excepcional; Merlot con matices de frutas rojas y perfume floral; Marselan innovador cruce de Cabernet Sauvignon y Grenache, intensa en polifenoles.",
-	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/M3.jpg", "name":"img1", "type":"img"},
-	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1", "type":"video"}]
-        },
+	  
         {
             "code":"12324346786",
             "name":"Cuna de Tierra Cabernet Sauvignon",
 		"tags":["tinto","meloso","elevado"],
 		"price":"530.00$",
 		"year":"2020",
+		"grape":"cabernet suavignon, merlot, petit sirah",
 		"desc":"Ésta variedad de uva, representa una de las más antiguas dentro de nuestro viñedo. Por lo mismo, las historias que te puede llegar a contar, son de antaño. Debido a nuestro terruño anteriormente agrícola, las notas especiadas y vegetales (pimiento y chile principalmente) resultan más marcadas que en nuestras otras etiquetas.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/CUNA-DE-TIERRA-TINTO.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
+        },{
+            "code":"16453366530",
+            "name":"Tinto M Cúbica",
+            "tags":["tinto","suave","bajo"],
+		"price":"225.00$",
+		"year":"2020",
+		"grape":"malbec, merlot, marselan",
+		"desc":"Elaborado en un Viñedo de Altura, a 2000 msnm. Vino único por su frescura, que lo hace elegante, impetuoso, vibrante y que te invita a tomar otra copa. Ensamble cúbico de Malbec, cuya acidez en tierras altas de días soleados y noches frescas es excepcional; Merlot con matices de frutas rojas y perfume floral; Marselan innovador cruce de Cabernet Sauvignon y Grenache, intensa en polifenoles.",
+	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/M3.jpg", "name":"img1", "type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1", "type":"video"}]
         },
         {
             "code":"76507854567",
-            "name":"Lloro de Tierra",
+            "name":"Lloro de Tierra(Mistela)",
             "tags":["tinto","suave","bajo"],
 		"price":"285.00$",
 		"year":"En curso",
+		"grape":"fantasy, garnacha y moscatel",
 		"desc":"Evoca frangancias navideñas. Mistela en la que se interrumpe la fermentación alcohólica cuando el 20% de los azucares han sido fermentados mediante la adición de alcohol vínico.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/LLORO-DE-TIERRA.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -82,8 +89,20 @@
             "tags":["tinto","suave","elevado"],
 		"price":"530.00$",
 		"year":"2019",
+		"grape":"syrah",
 		"desc":"Orgullosamente podemos decir que ésta es una variedad que se ha adaptado majestuosamente a la zona de Guanajuato. Interesante, profunda, persistente, pareciera que el Syrah no solamente representa el terruño del estado sino también, la herencia de la tierra que llevamos cosechando desde los tiempos de la independencia.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/CUNA-DE-TIERRA-SYRAH.jpg", "name":"img1","type":"img"},
+	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
+        },
+	 {
+            "code":"156856856882",
+            "name":"Cuna de Tierra Malbec",
+        	 "tags":["tinto","meloso","medio"],
+		"price":"440.00$",
+		"year":"2020",
+		 "grape":"malbec",
+		"desc":"Consideramos ésta etiqueta una de las favoritas entre nuestro mercado: es amable, elegante, intensa y seductora. Vino amigable que te acompaña durante la cata o resulta en el maridaje perfecto para alguna reunión entre amigos.",
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
@@ -92,6 +111,7 @@
             "tags":["tinto","seco","alto"],
 			"price":"630.00$",
 		"year":"2019",
+		"grape":"nebbiolo, malbec y tempranillo",
 		"desc":"Nuestro vino más premiado es un nsamble único de tres variedades del mundo aclimatadas y cultivadas en México, Nebbiolo del Piamonte Italiano, Malbec de Mendoza, Argentina y Tempranillo de Rioja, España.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/09/Cuna-de-Tierra-Nebbiolo-Large.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -102,6 +122,7 @@
            "tags":["tinto","meloso","alto"],
 			"price":"775.00$",
 		"year":"2018",
+		"grape":"cabernet suavignon, cabernet franc, merlot",
 		"desc":"Selección de nuestros mejores viñedos cuyos suelos aportan elegante carácter mineral en nuestra mezcla bordalesa. Maceración durante 12 días seguida de un período de fermentación a 28°C.",
 	"media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/PAGO-DE-VEGA.jpg", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -112,18 +133,9 @@
             "tags":["tinto","atrevido","alto"],
 		"price":"1200.00$",
 		"year":"2017",
+		"grape":"cabernet suavignon, cabernet franc,syrah y  merlot",
 		"desc":"Selección de nuestros mejores viñedos cuyos suelos aportan elegante carácter de tierra mojada y mineral.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/GRAN-PAGO-DE-VEGA.jpg", "name":"img1","type":"img"},
-	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
-        },
-        {
-            "code":"156856856882",
-            "name":"Cuna de Tierra Malbec",
-        	 "tags":["tinto","meloso","medio"],
-		"price":"440.00$",
-		"year":"2020",
-		"desc":"Consideramos ésta etiqueta una de las favoritas entre nuestro mercado: es amable, elegante, intensa y seductora. Vino amigable que te acompaña durante la cata o resulta en el maridaje perfecto para alguna reunión entre amigos.",
-	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
@@ -132,6 +144,7 @@
 	  "tags":["blanco","suave","alto"],
 		"price":"785.00$",
 		"year":"2021",
+		"grape":"cabernet suavignon, cabernet franc,syrah y  merlot",
 		"desc":"Monovarietal 100% Semillón, almacenada en cámara fría posterior a la cosecha y fermentada a baja temperatura. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
@@ -142,6 +155,7 @@
            "tags":["espumoso","meloso","atrevido","elevado"],
 		"price":"505.00$",
 		"year":"2020",
+		"grape":"cabernet suavignon, cabernet franc,syrah y  merlot",
 		"desc":"Monovarietal 100% Semillón, almacenada en cámara fría posterior a la cosecha y fermentada a baja temperatura. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
