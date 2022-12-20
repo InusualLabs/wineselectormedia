@@ -1,7 +1,7 @@
 {
 "wines":[{
             "code":"00000000000",
-	"tags":[["tinto","blanco","rosado","espumoso"],["suave","meloso","seco","atrevido"],["bajo","medio","elevado","alto"]],
+	"tags":[["tinto","blanco","rosado","dulce"],["suave","meloso","seco","atrevido"],["bajo","medio","elevado","alto"]],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.png", "name":"homeimg", "type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.mp4", "name":"home", "type":"video"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/scan.mp4", "name":"scan", "type":"video"}]
@@ -75,7 +75,7 @@
         {
             "code":"76507854567",
             "name":"Lloro de Tierra(Mistela)",
-            "tags":["tinto","suave","bajo"],
+            "tags":["dulce","suave","bajo"],
 		"price":"285.00$",
 		"year":"En curso",
 		"grape":"fantasy, garnacha y moscatel",
@@ -136,28 +136,6 @@
 		"grape":"cabernet suavignon, cabernet franc,syrah y  merlot",
 		"desc":"Selección de nuestros mejores viñedos cuyos suelos aportan elegante carácter de tierra mojada y mineral.",
 	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/GRAN-PAGO-DE-VEGA.jpg", "name":"img1","type":"img"},
-	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
-        },
-        {
-            "code":"1689690870003",
-            "name":"Cuna de Tierra Bianco",
-	  "tags":["blanco","suave","alto"],
-		"price":"785.00$",
-		"year":"2021",
-		"grape":"cabernet suavignon, cabernet franc,syrah y  merlot",
-		"desc":"Monovarietal 100% Semillón, almacenada en cámara fría posterior a la cosecha y fermentada a baja temperatura. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
-	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
-	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
-        },
-        {
-            "code":"8780780434614",
-            "name":"Cuna Espumoso",
-           "tags":["espumoso","meloso","atrevido","elevado"],
-		"price":"505.00$",
-		"year":"2020",
-		"grape":"cabernet suavignon, cabernet franc,syrah y  merlot",
-		"desc":"Monovarietal 100% Semillón, almacenada en cámara fría posterior a la cosecha y fermentada a baja temperatura. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
-	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.png", "name":"foto1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         }
     ]
