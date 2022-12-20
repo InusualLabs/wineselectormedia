@@ -3,6 +3,7 @@
             "code":"00000000000",
 	"tags":[["tinto","blanco","rosado","dulce"],["suave","meloso","seco","atrevido"],["bajo","medio","elevado","alto"]],
 	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.png", "name":"homeimg", "type":"img"},
+		   "url":"https://static.wixstatic.com/media/995fc3_330eb72c7da342e287670415b1f4f82f~mv2_d_5616_3744_s_4_2.jpg/v1/fill/w_1644,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/995fc3_330eb72c7da342e287670415b1f4f82f~mv2_d_5616_3744_s_4_2.jpg", "name":"homeimg", "type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/home.mp4", "name":"home", "type":"video"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/scan.mp4", "name":"scan", "type":"video"}]
         },
