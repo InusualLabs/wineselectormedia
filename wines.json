@@ -14,7 +14,7 @@
 		"year":"2022",
 		"grape":"semillon",
 		"desc":"Monovarietal 100% Semillón, almacenada en cámara fría posterior a la cosecha y fermentada a baja temperatura. Reposado en sus propias lías. Decantación en acero inoxidable sin filtrar.",
-	  "media":[{"url":"https://tienda.cunadetierra.com/wp-content/uploads/2022/10/TORRE-DE-TIERRA-BLANCO.jpg", "name":"img1","type":"img"},
+	  "media":[{"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/redwine.png", "name":"img1","type":"img"},
 	  {"url":"https://raw.githubusercontent.com/InusualLabs/wineselectormedia/main/16453366530.mp4", "name":"video1","type":"video"}]
         },
         {
